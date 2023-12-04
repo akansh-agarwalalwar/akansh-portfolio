@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/akansh-portfolio/static/css/main.9b2fea1d.css",
+    "main.js": "/akansh-portfolio/static/js/main.09616656.js",
+    "static/js/787.3e246e63.chunk.js": "/akansh-portfolio/static/js/787.3e246e63.chunk.js",
+    "static/media/download.jpeg": "/akansh-portfolio/static/media/download.4c98f44fb560f0096814.jpeg",
+    "static/media/ellipse1.png": "/akansh-portfolio/static/media/ellipse1.98764a19cf09a120e577.png",
+    "index.html": "/akansh-portfolio/index.html",
+    "main.9b2fea1d.css.map": "/akansh-portfolio/static/css/main.9b2fea1d.css.map",
+    "main.09616656.js.map": "/akansh-portfolio/static/js/main.09616656.js.map",
+    "787.3e246e63.chunk.js.map": "/akansh-portfolio/static/js/787.3e246e63.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b2fea1d.css",
+    "static/js/main.09616656.js"
+  ]
+}
